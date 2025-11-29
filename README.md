@@ -2,13 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
-modified for local mongodb
+modified for locally installed  mongodb
+
+run 'npm run startmd'
 
 ## Development server
 
 run 'node server.js'
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `npm start` for a dev server.
+
+Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
