@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
 
+modified for local mongodb
+
 ## Development server
 
 run 'node server.js'
